@@ -59,13 +59,6 @@
 			</dependencies>
 		</dependencyManagement>
 
-	<repositories>
-		<repository>
-			<id>sonatype-nexus</id>
-			<url>http://javabuild.intranet.commerzbank.com/nexus/content/repositories/dev-sonatypepublicgrid/</url>
-		</repository>
-	</repositories>
-
 	<build>
 		<plugins>
 			<plugin>
